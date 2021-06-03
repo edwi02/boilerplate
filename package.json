@@ -1,8 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {
-		"name": "Edwin Quintero Rueda"
-	},
+	"author": "Edwin Quintero Rueda",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
